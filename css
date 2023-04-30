@@ -1,0 +1,72 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    margin: auto;
+    color: whitesmoke;
+    background-color: #333;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    transform-origin:
+}
+
+figure {
+    display: inline-block;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    border: solid whitesmoke 0.2em;
+    border-radius: 5em;
+}
+
+figcaption {
+    font-style: italic;
+    margin-top: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 5em;
+    text-transform: uppercase;
+}
+
+#tribute-info {
+    border: double whitesmoke 0.2em;
+    margin-bottom: 5em;
+    border-radius: 5em;
+}
+
+.quotes {
+    font-size: 1.8em;
+}
+
+.book-titles {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: -1.2em;
+}
+
+.book-quotes {
+    font-style: italic;
+    font-size: 0.9em;
+    margin: 2em;
+}
+
+a {
+    text-decoration: none;
+    font-style: italic;
+    margin: 20em;
+    color: #bbb;
+}
+
+a:hover {
+    color: whitesmoke;
+}
